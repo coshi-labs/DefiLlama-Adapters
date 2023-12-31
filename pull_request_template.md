@@ -12,7 +12,7 @@
 7. No need to go to our discord and announce that you've created a PR, we monitor all PRs and will review it asap
 
 ---
-##### Name (to be shown on DefiLlama):
+##### Name (to be shown on DefiLlama): CommuDAO GameSwap
 
 
 ##### Twitter Link:
@@ -21,34 +21,33 @@
 ##### List of audit links if any:
 
 
-##### Website Link:
+##### Website Link: https://commudao.xyz/gameswap
 
 
-##### Logo (High resolution, will be shown with rounded borders):
+##### Logo (High resolution, will be shown with rounded borders): https://commudao.xyz/favicon.png
 
 
-##### Current TVL:
+##### Current TVL: ~36,600 USDT
 
 
 ##### Treasury Addresses (if the protocol has treasury)
 
 
-##### Chain:
+##### Chain: JBC
 
 
-##### Coingecko ID (so your TVL can appear on Coingecko, leave empty if not listed): (https://api.coingecko.com/api/v3/coins/list)
+##### Coingecko ID (so your TVL can appear on Coingecko, leave empty if not listed): 
+
+##### Coinmarketcap ID (so your TVL can appear on Coinmarketcap, leave empty if not listed): 
 
 
-##### Coinmarketcap ID (so your TVL can appear on Coinmarketcap, leave empty if not listed): (https://api.coinmarketcap.com/data-api/v3/map/all?listing_status=active,inactive,untracked&start=1&limit=10000)
-
-
-##### Short Description (to be shown on DefiLlama):
+##### Short Description (to be shown on DefiLlama): Decentralized Exchange by CommuDAO, the web3 multiverse of crypto-community. 
 
 
 ##### Token address and ticker if any:
 
 
-##### Category (full list at https://defillama.com/categories) *Please choose only one:
+##### Category (full list at https://defillama.com/categories) *Please choose only one: Dexes
 
 
 ##### Oracle used (Chainlink/Band/API3/TWAP or any other that you are using):
@@ -57,7 +56,7 @@
 ##### forkedFrom (Does your project originate from another project):
 
 
-##### methodology (what is being counted as tvl, how is tvl being calculated):
+##### methodology (what is being counted as tvl, how is tvl being calculated): JUSDT (USDT issued by CommuDAO GameSwap) on AMM contract
 
 
-##### Github org/user (Optional, if your code is open source, we can track activity):
+##### Github org/user (Optional, if your code is open source, we can track activity): https://github.com/coshi-labs/CommuDAO/tree/main/smart-contracts/gameswap
